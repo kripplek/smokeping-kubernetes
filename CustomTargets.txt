@@ -1,0 +1,13 @@
++ Custom
+menu = Custom Sites
+title = Custom Sites
+
+++ Twitter
+menu = Twitter
+title = Twitter
+host = twitter.com
+
+++ Amazon
+menu = Amazon
+title = Amazon
+host = amazon.com
